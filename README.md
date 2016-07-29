@@ -9,7 +9,7 @@ macOS, Yeoman, AngularJS 1.x, Grunt, Github, Heroku
 ![Angular Template](./sample-template.png "Angular Template")
 
 Here is what the deployed result looks like on gh-pages:
-[yourProjectApp](http://shinwang.us/Angular-deployment-tutorial/#/)
+[yourProjectApp](https://shinwang1.github.io/Angular-deployment-tutorial/#/)
 
 ## Setup and steps on macOS:
 
